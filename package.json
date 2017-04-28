@@ -6,6 +6,13 @@
     "test": "mocha"
   },
   "main": "vanilla-logger.js",
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "console",
+    "log",
+    "pure javascript"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/trustyoo86/vanilla-logger.git"
