@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-logger",
+  "version": "1.0.0",
+  "description": "window.console controller using vanilla javascript(pure javascript)",
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trustyoo86/vanilla-logger.git"
+  },
+  "author": "KernYoo(trustyoo86@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.3.0",
+    "should": "^11.2.1"
+  }
+}
