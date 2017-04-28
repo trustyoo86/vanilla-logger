@@ -5,7 +5,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "main": "index.js",
+  "main": "vanilla-logger.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/trustyoo86/vanilla-logger.git"
