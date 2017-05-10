@@ -32,20 +32,14 @@ require('vanilla-logger');
 usage
 ----
 
-#### add dependecy on angular app
-If you import source and using common js, add angular-dev-logger dependency on your angular app.
 
 ```js
-require('angular-dev-logger');
+require('vanilla-logger');
 
-angular.module('myApp', [
-  'angular-dev-logger'
-]);
 ```
 
 #### DebugMode
 
-If you $devLoggerProvider is true, window.console function is operate.
 ```js
 //If you were install npm
 var vLogger = require('vanilla-logger');
@@ -59,7 +53,6 @@ console.error('logger error'); //logger error
 console.info('logger info'); //logger info
 ```
 
-If you $devLoggerProvider is false, window.console function is not operate.
 
 ```js
 //If you were install npm

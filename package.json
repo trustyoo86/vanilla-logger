@@ -1,6 +1,6 @@
 {
   "name": "vanilla-logger",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "window.console controller using vanilla javascript(pure javascript)",
   "scripts": {
     "test": "mocha"
